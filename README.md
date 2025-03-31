@@ -44,5 +44,5 @@ To add questions, navigate to **Career Quiz Settings** and enter JSON data like 
 This plugin is licensed under GPL2.
 
 ## Author
-[Your Name](https://skilllink.infinityfreeapp.com/)
+[Kingsley Ozioko](https://skilllink.infinityfreeapp.com/)
 
