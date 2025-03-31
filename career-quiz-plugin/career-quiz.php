@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Career Quiz Plugin
- * Plugin URI: https://skilllink.infinityfreeapp.com/recommendation/
+ * Plugin URI: https://github.com/ozioko-kingsley/career_quiz_plugins/blob/main/career-quiz-plugin/career-quiz.php
  * Description: A simple career quiz plugin that recommends career paths based on user responses.
  * Version: 1.0
  * Author: Kingsley Ozioko
